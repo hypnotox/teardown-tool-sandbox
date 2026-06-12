@@ -1,0 +1,5 @@
+name = Tool Sandbox
+author = HypnoTox
+tags = Script
+version = 2
+description = Spawn with every installed custom tool. A sandbox / mod-testing game mode for multiplayer.

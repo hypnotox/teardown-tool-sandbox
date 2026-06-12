@@ -1,0 +1,4 @@
+[Tool Sandbox]
+path = main.lua
+description = Spawn with every installed custom tool. Sandbox / mod testing.
+preview = preview.jpg
